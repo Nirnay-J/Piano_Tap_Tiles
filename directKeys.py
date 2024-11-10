@@ -3,7 +3,6 @@ import time
 
 SendInput = ctypes.windll.user32.SendInput
 
-#key based instructions
 W = 0x11
 A = 0x1E
 S = 0x1F
