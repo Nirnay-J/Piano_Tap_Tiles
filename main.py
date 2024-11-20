@@ -4,7 +4,7 @@ import cv2
 from directKeys import click, queryMousePosition
 import time
 
-#
+# changes per cycle
 # click(1800, 10)
 # time.sleep(1)
 
